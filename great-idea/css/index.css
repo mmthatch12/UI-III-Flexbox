@@ -216,3 +216,9 @@ ul {
 footer {
 	margin:100px;
 }
+
+.whynot {
+	display:flex;
+	flex-direction: column;
+	align-content: space-between;
+}
